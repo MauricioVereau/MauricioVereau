@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hola 👋 Soy Mauricio
 
-<!--
-**MauricioVereau/MauricioVereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador con interés en inteligencia artificial y sistemas distribuidos.
 
-Here are some ideas to get you started:
+🛠️ Tecnologías:
+- JavaScript / TypeScript / Node.js
+- Python / FastAPI / Flask
+- React / Vue / Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciovereau&show_icons=true)
+
+📫 Contáctame en: [LinkedIn](https://linkedin.com/in/mauriciovereau)
+
